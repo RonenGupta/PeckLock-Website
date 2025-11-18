@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+ul {
+    gap: 10px;
+}
+
+img {
+    display: block;
+    justify-content: left;
+    width: 5%;
+    height: 5%;
+}
+
+h2 {
+    color: rgba(121, 138, 108);
+    text-align: center;
+}
+
+body {
+    background-color: rgba(48, 46, 47);
+    
+}
+
+a {
+    text-decoration: none;
+    color: rgba(121, 138, 108);
+}
